@@ -256,3 +256,9 @@ payload:
  #IDLIX
   - DOMAIN-SUFFIX,idlix.com
   - DOMAIN-SUFFIX,jeniusplay.com
+  - DOMAIN-SUFFIX,cdn1.jeniusplay.com
+  - DOMAIN-SUFFIX,cdn6.jeniusplay.com
+  - DOMAIN-SUFFIX,cdn5.jeniusplay.com
+  - DOMAIN-SUFFIX,cdn3.jeniusplay.com
+  - DOMAIN-SUFFIX,cdn2.jeniusplay.com
+  - DOMAIN-SUFFIX,beta.jeniusplay.com
